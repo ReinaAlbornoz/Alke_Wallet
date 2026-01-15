@@ -1,4 +1,4 @@
-# Alke Wallet
+# Proyecto Alke Wallet
 
 ¡Hola! Este es mi proyecto de Alke Wallet, una aplicación web sencilla que simula una billetera digital. Lo hice como parte de mi curso de Java, pero al final terminé usándolo más para practicar HTML, CSS y JavaScript.
 
