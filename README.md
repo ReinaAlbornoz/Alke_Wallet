@@ -10,7 +10,7 @@ La app te permite:
 - **Ver transacciones**: Revisa el historial de tus movimientos.
 - **Menú principal**: Navega fácilmente entre las diferentes secciones.
 
-Todo está hecho con páginas HTML básicas, un poco de CSS para que se vea decente y JavaScript para manejar la lógica. Nada fancy, pero funciona.
+Todo está hecho con páginas HTML básicas, un poco de CSS para que se vea decente y JavaScript para manejar la lógica, pero funciona.
 
 ## Tecnologías que usé
 
